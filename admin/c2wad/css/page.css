@@ -1,0 +1,34 @@
+#demo {
+background-color: #ebf9ff;
+}
+#icon {
+  border-radius:50%;
+  color:orange;
+  font-size:40px;
+  padding-right:15px;
+ 
+}
+#icons {
+  border-radius:50%;
+  color:skyblue;
+  font-size:40px;
+ padding-right:15px;
+ 
+}
+
+#icone {
+  border-radius:50%;
+  color:green;
+  font-size:40px;
+ padding-right:15px;
+ 
+}
+#value {
+  border-radius:50%;
+  color:teal;
+}
+.btn-group{
+
+  margin-left:10%;
+}
+
